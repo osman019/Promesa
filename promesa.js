@@ -1,6 +1,6 @@
 // Función que devuelve una promesa que resuelve después de un tiempo especificado
 function cuentaRegresiva(tiempo) {
-    return new Promise((resolve,) => {
+    return new Promise((resolve) => {
         let segundosRestantes = tiempo / 1000; 
 
         const intervalo = setInterval(() => {
