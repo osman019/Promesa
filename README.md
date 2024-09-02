@@ -12,9 +12,5 @@ El script define dos funciones principales:
 
 La cuenta regresiva se inicia con una llamada a `cuentaRegresiva(5000)`, que espera 5 segundos (5000 milisegundos). Una vez que el tiempo ha transcurrido, la promesa resuelve, y se llama a la función `saludo()`. Si ocurre algún error, se maneja en el bloque `catch`. Al finalizar, se imprime un mensaje indicando que el proceso ha terminado, sin importar si la promesa fue resuelta o rechazada.
 
-## Uso
-
-Para ejecutar este script, simplemente cópialo en un archivo llamado `promesa.js` y ejecuta el archivo con Node.js:
-
-```bash
-node promesa.js
+# Acerca de: 
+(osmanortizrolon@gmail.com)
