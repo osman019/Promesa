@@ -13,4 +13,4 @@ El script define dos funciones principales:
 La cuenta regresiva se inicia con una llamada a `cuentaRegresiva(5000)`, que espera 5 segundos (5000 milisegundos). Una vez que el tiempo ha transcurrido, la promesa resuelve, y se llama a la función `saludo()`. Si ocurre algún error, se maneja en el bloque `catch`. Al finalizar, se imprime un mensaje indicando que el proceso ha terminado, sin importar si la promesa fue resuelta o rechazada.
 
 # Acerca de: 
-(osmanortizrolon@gmail.com)
+(osmanortizrolon@gmail.com) 3222167943
